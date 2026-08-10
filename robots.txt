@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-verifikacii-tenge.github.io
+Sitemap: https://kazino-bez-verifikacii-tenge.github.io/sitemap.xml
